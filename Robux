@@ -1,0 +1,249 @@
+var button = document.createElement("Button");
+button.innerHTML = "Get Robux!";
+button.style = "top:0;left:0;position:absolute;z-index:99999;padding:20px;";
+document.body.appendChild(button);
+button.onclick = function(){
+ans = prompt('Welcome To Version 1 Of Troll Generator!\n This generator is brought to you by me ;) NewBestPastebins!\n (Important Notation: This is a FAKE generator)\n When you are ready, please type the amount of robux you have in your account and press ok! Then just watch :D');
+robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-amount').innerHTML = robux;
+}, 50);
+robux = (ans)
+setInterval(function() {
+robux++;
+document.getElementById('nav-robux-balance').innerHTML = robux;
+}, 50);
+document.addEventListener('keydown', function(event) {
+  if (event.code == 'KeyZ' && (event.ctrlKey || event.metaKey)) {
+    alert('The secret code is "UWU123UWU"')
+  }
+});};
